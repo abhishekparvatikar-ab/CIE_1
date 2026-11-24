@@ -12,6 +12,6 @@ else:
 
 total_salary = salary + Bonus
 
-print("The Salary is:", salary)
-print("The Bonus is:", Bonus)
+print("Enter the Salary:", salary)
+print("The Bonus :", Bonus)
 print("The Total Salary is:", total_salary)
